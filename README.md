@@ -11,7 +11,7 @@
 
 #### My fields of interest include: 
 
-- ⚡ Database Management.
+- ⚡ Database Management
 - 💻 Human - Computer Interaction
 - 💬 Network Security
 - 📚 Neural Networks

@@ -11,7 +11,7 @@
 #### My fields of interest include: 
 
 - :brain: Machine Learning
-- 📚 Neural Networks
+- 📚 Software Development
 - ⚡ Database Management
 - 💻 Human - Computer Interaction
 - 💬 Network Security
@@ -22,7 +22,7 @@
 #### The Languages and Tools that I have experince with include:
 
 <img align ="left" alt = "Android Studio" width = "30px" src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg">
-<img align = "left" alt = "C++" width = "30px" src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg">
+<img align = "left" alt = "C++" width = "30px" src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg">
 <img align = "left" alt = "CSS" width = "30px" src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg">
 <img align = "left" alt = "Git Bash" width = "30px" src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg">
 <img align = "left" alt = "Java" width = "30px" src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">

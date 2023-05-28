@@ -30,8 +30,6 @@
 - 💬 Network Security
 - 👯 Social Network Analysis
 
----
-
 You can always find me here: 
 <div id = "badges">
   <a href = "https://www.linkedin.com/in/nikolaos-astrinakis-a95b3a219/">

@@ -1,7 +1,7 @@
 ### Hey there, welcome to my GitHub profile! 👋
 
 <div id = "header" align = "center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjMyOTg0MmE4MDM3NmZhYzdhMTQzMmE3Y2Y0ZWUwMGFlZmQ0M2QxZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjMyOTg0MmE4MDM3NmZhYzdhMTQzMmE3Y2Y0ZWUwMGFlZmQ0M2QxZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
 
 <!--

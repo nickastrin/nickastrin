@@ -10,15 +10,24 @@
   * You can contact me via e-mail @ nikos.astrin@gmail.com
 -->
 
-### About me:
+<h4 id = "description" align = "center">
+  I am Nikos, a recent graduate of Electrical & Computer Engineering (Integrated Master's Degree) from the NTUA. 
 
-#### I am Nikos, a recent graduate of Electrical & Computer Engineering (Integrated Master's Degree) from the NTUA. 
+  You can always find me here: 
+</h4>
+<div id = "badges">
+  <a href = "https://www.linkedin.com/in/nikolaos-astrinakis-a95b3a219/">
+    <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+### More about me:
+
 #### Creative, detailed-oriented and always aspiring to improve.
 #### Currently working on European funded projects @ the National Technical Unversity of Athens.
 
----
 
-#### My fields of interest include: 
+### My fields of interest include: 
 
 - :brain: Machine Learning
 - 📚 Software Development

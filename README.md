@@ -1,4 +1,6 @@
-### Hey there, welcome to my GitHub profile! 👋
+<h3 id = "title" align = "center">
+  Hey there, welcome to my GitHub profile! 👋
+</h3>
 
 <div id = "header" align = "center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjMyOTg0MmE4MDM3NmZhYzdhMTQzMmE3Y2Y0ZWUwMGFlZmQ0M2QxZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif"/>

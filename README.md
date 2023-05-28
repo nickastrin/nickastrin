@@ -4,7 +4,8 @@
   * You can contact me via e-mail @ nikos.astrin@gmail.com
 -->
 #### I am Nikos, a recent graduate of Electrical & Computer Engineering (Integrated Master's Degree) from the NTUA. 
-#### Currently working on national funded projects @ the National Technical Unversity of Athens.
+#### Creative, detailed-oriented and always aspiring to improve.
+#### Currently working on European funded projects @ the National Technical Unversity of Athens.
 
 ---
 
@@ -16,6 +17,15 @@
 - 💻 Human - Computer Interaction
 - 💬 Network Security
 - 👯 Social Network Analysis
+
+---
+
+You can always find me here: 
+<div id = "badges">
+  <a href = "https://www.linkedin.com/in/nikolaos-astrinakis-a95b3a219/">
+    <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 ---
 

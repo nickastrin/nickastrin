@@ -19,7 +19,10 @@
 - :scroll: Recently graduated from the National University of Athens (Integrated Master, 7.84/10).
 - :desktop_computer: Currently working on European funded projects @ the National Technical Unversity of Athens.
 - :bulb: Creative, detailed-oriented and always aspiring to improve.
+- :brain: My fields of interest include Machine Learning, Software Development, Database Management, Networks and Human Computer Interaction.
 - :paintbrush: In my free time I enjoy drawing and playing games.
+
+<br/>
 
 ### My fields of interest include: 
 
@@ -29,6 +32,8 @@
 - 💻 Human - Computer Interaction
 - 💬 Network Security
 - 👯 Social Network Analysis
+
+<br/>
 
 You can always find me here: 
 <div id = "badges">

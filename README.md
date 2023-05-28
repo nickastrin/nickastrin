@@ -3,18 +3,18 @@
 <!--
   * You can contact me via e-mail @ nikos.astrin@gmail.com
 -->
-
-#### I am Nikos, an aspiring ECE Undergraduate Student from Greece. 
-#### Currently studying @ the National Technical Unversity of Athens.
+#### I am Nikos, a recent graduate of Electrical & Computer Engineering (Integrated Master's Degree) from the NTUA. 
+#### Currently working on national funded projects @ the National Technical Unversity of Athens.
 
 ---
 
 #### My fields of interest include: 
 
+- :brain: Machine Learning
+- 📚 Neural Networks
 - ⚡ Database Management
 - 💻 Human - Computer Interaction
 - 💬 Network Security
-- 📚 Neural Networks
 - 👯 Social Network Analysis
 
 ---

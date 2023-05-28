@@ -3,12 +3,15 @@
 </h3>
 
 <div id = "header" align = "center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjMyOTg0MmE4MDM3NmZhYzdhMTQzMmE3Y2Y0ZWUwMGFlZmQ0M2QxZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IxMjcyYTFlY2YyYjQyNTEyZmJjNmUwNzE5ZDgyZmViNDgzNWZiMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/KRfBgRKoKuXno1Sb4D/giphy.gif"/>
 </div>
 
 <!--
   * You can contact me via e-mail @ nikos.astrin@gmail.com
 -->
+
+### About me:
+
 #### I am Nikos, a recent graduate of Electrical & Computer Engineering (Integrated Master's Degree) from the NTUA. 
 #### Creative, detailed-oriented and always aspiring to improve.
 #### Currently working on European funded projects @ the National Technical Unversity of Athens.

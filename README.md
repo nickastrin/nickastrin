@@ -11,7 +11,7 @@
 -->
 
 <h3 id = "description" align = "center">
-  I am Nikos, an aspiring Electrical & Computer Engineer, MEng. 
+  I am Nikos, an Electrical & Computer Engineer, MEng. 
 </h3>
 
 ### More about me:

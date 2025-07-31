@@ -7,7 +7,7 @@ I love solving real-world problems with code and constantly growing.
 
 🔭 **Currently working at** **SoftOne Technologies** building impactful software solutions.  
 🎓 **Diploma Thesis:** Optimized content distribution in VANETs using ML.  
-💡 Graduated from the **Electrical and Computer Engineering School** of the **National University of Athens**.
+💡 Graduated from the **Electrical and Computer Engineering School** of the **National Technical University of Athens**.
 
 ### **📌 Featured Projects**  
 - [OATHenticate](https://github.com/nickastrin/oathenticate) – Secure user authentication with rotating refresh tokens — built with React, Express, and MongoDB.  

@@ -49,4 +49,4 @@ You can always reach out to me here:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolaos-astrinakis/)  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikos.astrin@gmail.com)  
 ---
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nickastrin&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nickastrin)](https://github.com/anuraghazra/github-readme-stats)

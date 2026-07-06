@@ -5,13 +5,14 @@ I'm a passionate **Software Engineer** with a Master's Degree in **Computer Engi
 My expertise spans **Full-Stack Development, Data Engineering, and Machine Learning**. 
 I love solving real-world problems with code and constantly growing.  
 
-🔭 **Currently working at** **SoftOne Technologies** building impactful software solutions.  
-🎓 **Diploma Thesis:** Optimized content distribution in VANETs using ML.  
+🔭 **Currently working at** **ENTERSOFTONE** building impactful software solutions.  
+🎓 **Master's Thesis:** Optimized content distribution in VANETs using ML.  
 💡 Graduated from the **Electrical and Computer Engineering School** of the **National Technical University of Athens**.
 
 ### **📌 Featured Projects**  
-- [OATHenticate](https://github.com/nickastrin/oathenticate) – Secure user authentication with rotating refresh tokens — built with React, Express, and MongoDB.  
-- [VANETs Content Distribution Optimization](https://github.com/nickastrin/vanets-content-distribution) – Short description  
+- [OATHenticate](https://github.com/nickastrin/oathenticate) – Secure user authentication with rotating refresh tokens — built with React, Express, and MongoDB.
+- [VANETs Content Distribution Optimization](https://github.com/nickastrin/vanets-content-distribution) – Extended the Veins framework using C++ and Python to simulate vehicular networks, integrating Scikit-learn neural networks to optimize data caching and routing.
+- [Book Tracker & Activity Log](https://github.com/nickastrin/book-event-sourcing) – A full-stack platform utilizing Event Sourcing via Marten (PostgreSQL) and .NET 9 to deliver an auditable book activity log with a high-performance, responsive React UI.
 - [Live Streaming Prototype](https://github.com/nickastrin/live-streaming-project) – A live streaming system that acts as a prototype of an actual IoT system. 
 
 
